@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-dom": "~0.14.7",
+    "babel-preset-react": "~6.5.0",
+    "react": "~0.14.7",
+    "webpack": "~1.12.14",
+    "babel-core": "~6.6.5",
+    "babel-loader": "~6.2.4",
+    "superagent": "~3.0.0",
+    "babel-plugin-transform-react-jsx": "~6.8.0"
+  }
+}
